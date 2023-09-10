@@ -1,0 +1,1 @@
+Sotepad++ v8.5.4 bug-fixes and new features: 1. Fix macro recording regression on Unicode character. 2. Fix regression of defective detection for file read-only attribute removal via Explorer. 3. Fix opening multi-files on multi-instance mode regression.

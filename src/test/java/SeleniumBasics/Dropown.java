@@ -37,11 +37,7 @@ public class Dropown {
 		Select monthDropdown =  new Select(browser.findElement(By.id("month")));
 		monthDropdown.selectByValue("4");
 		Select yearDropdown =  new Select(browser.findElement(By.id("year")));
-		yearDropdown.selectByVisibleText("2000");
-		
-		
-		
-		
+		yearDropdown.selectByVisibleText("2000");	
 	}
 	
 	public void multiselect()

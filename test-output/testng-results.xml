@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="4043" started-at="2023-09-17T11:18:44 IST" finished-at="2023-09-17T11:18:48 IST">
+  <suite name="Default suite" duration-ms="10161" started-at="2023-09-24T11:19:05 IST" finished-at="2023-09-24T11:19:15 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="4043" started-at="2023-09-17T11:18:44 IST" finished-at="2023-09-17T11:18:48 IST">
-      <class name="SeleniumBasics.Screenshot">
-        <test-method status="PASS" signature="frameconcpet()[pri:0, instance:SeleniumBasics.Screenshot@7ce6a65d]" name="frameconcpet" duration-ms="4013" started-at="2023-09-17T11:18:44 IST" finished-at="2023-09-17T11:18:48 IST">
+    <test name="Default test" duration-ms="10161" started-at="2023-09-24T11:19:05 IST" finished-at="2023-09-24T11:19:15 IST">
+      <class name="SeleniumBasics.Upload">
+        <test-method status="PASS" signature="innerframeconcpet()[pri:0, instance:SeleniumBasics.Upload@7ce6a65d]" name="innerframeconcpet" duration-ms="10130" started-at="2023-09-24T11:19:05 IST" finished-at="2023-09-24T11:19:15 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- frameconcpet -->
-      </class> <!-- SeleniumBasics.Screenshot -->
+        </test-method> <!-- innerframeconcpet -->
+      </class> <!-- SeleniumBasics.Upload -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
